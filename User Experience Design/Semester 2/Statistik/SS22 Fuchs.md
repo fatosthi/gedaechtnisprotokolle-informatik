@@ -1,0 +1,4 @@
+- Partialkorrelation berechnen und auf Signifikanz prüfen
+- je eine Möglichkeit, um zu testen ob a) Social Media Nutzung zu Depressionen führt  b) Depressionen zu mehr Social Media Nutzung führt
+- zwei Anwendungsfälle gegeben; Welches statistische Verfahren kann im Optimalfall verwendet werden? (Varianzanalyse, Wilcoxon-Test, etc.)
+- F-Wert berechnen und auf Signifikanz prüfen

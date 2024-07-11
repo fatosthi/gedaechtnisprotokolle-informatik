@@ -1,0 +1,21 @@
+- Code vorgegeben mit Exception: warum funktioniert Code nicht (2 Fehler finden)
+- Klasse die von (1) int, (2) String und (3) Object erbt: sagen ob möglich oder nicht + Begründung
+- Begründen was bei einer festgelegten Anzahl von Ganzzahlen besser ist: int-Array oder ArrayList
+- UML-Diagramm einer Klasse in Code bringen
+- Methode schreiben, die Array von chars sortiert (beliebigen Sortieralgorithmus anwenden)
+- LinkedList und Node: zwei Methoden ergänzen
+  - Methode, die Position eines Werts in der Liste zurückgibt
+  - Methode, die neuen Node an erster Stelle einfügt
+- Methode für einen Taschenrechner programmieren, die verschiedene Exceptions wirft
+  - Exception, wenn Operatoren nicht initialisiert sind
+  - Exception, wenn Divisor 0 ist
+  - Exception, wenn Operation nicht +/-/mal/durch ist
+- main-Methode dazu gegeben: ergänzen, dass diese Exceptions abgefangen werden
+- Threads: Ping Pong:
+  - boolean ponged = false gegeben
+  - Methode play schreiben, die Thread Ping und Pong synchronisiert 
+    - abwechselnd Ping und Pong?
+- Vererbung: abstrakte (?) Klasse Ticket mit int Preis und boolean invalid gegeben
+  - hat abstrakte Methode isValidInZone(int zone)
+  - eine Klasse SingleTicket, die von Ticket erbt: soll int zone und String expiryDate ergänzen
+  - eine Klasse NineEuroTicket, die von Ticket erbt: hat auch String expiryDate

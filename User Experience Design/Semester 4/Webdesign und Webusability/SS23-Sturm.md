@@ -1,0 +1,24 @@
+- Was ist i18n und l10n
+- 2 Kriterien für gutes Webdesign
+- Welche Stellen müssen bei UTF-8 Codierung besonders beachtet werden
+- Soziales Netzwerk, Soziales Objekt
+  - eigenes Bsp überlegen zu einem sozialen Netzwerk zu einem beliebigen Hobby: ausfüllen Tabelle (soz. Objekt, Kernfunktionen, soziale Fkten)
+    - Slug URl 2 Bsp zum sozialen Objekt
+    - Unterschied im Webdesign des sozialen Netzwerk zu Unternehmenspräsentation auf einer statischen Webseite
+- Design-Hypothesen
+  - zu geg. Bsp Hypothesen aufstellen/überlegen (Ändern d. Farbe, Größe, Anordnung etc), wie die Klickrate eines Button erhöht werden kann
+  - 2 Arten/Vorgehensweisen, wie man diese testen könnte mit Begündung
+- IA
+  - Urlaubswebseite für Studenten, die in Semesterferien Urlaub buchen:
+    - max. 3 Ebenen - makro IA - Menü erstellen - muss hierarchisch sein 
+    - Wizard erstellen für die Paketzusammenstellung + Bullet Liste zu jeder Seite
+    - Wireframe des Startscreens vom Wizard skizzieren
+- Performance-Empfehlungen
+  - geg bsp -  was ist schlecht  und wie kann es verbessert werden, welche Wirkung? (Optimierung Datenmenge: Komprimierung, Logo als GIF, Anzahl der Anfragen reduzieren> Kombination)
+  - Wann machen inline Bilder nach base64 Sinn?
+  - Welche Empfehlung
+- Skalierung in 3 Schritten
+  - 	THI Moodle Seite 
+    - Liste an Daten, die in einem Semester erfasst werden - einzel-Komponenten identifizieren
+    - jedem Listeneintrag geschätzte Zahl zuordnen/überlegen - Quantifizierung
+    - Modularisierung - Ordnen/Gruppieren nach Frequenz und Größe 

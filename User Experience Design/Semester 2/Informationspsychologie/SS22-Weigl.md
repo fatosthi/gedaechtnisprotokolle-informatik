@@ -1,0 +1,8 @@
+- serieller Positionseffekt beschreiben
+- Top-Down und Bottom-Up-Verarbeitung beschriften
+- Vergleich von Emotionen und Stimmungen
+- Basisemotionen nach Ekman nennen
+- Gehirn (limbisches System) beschriften, wie hängt es mit Wahrnehmung zusammen
+- klassische Konditionierung beschreiben
+- Lernvorgang im kognivistischen Sinne + Beispiele
+- Kausalattribution nach Rotter und Heider + Beispiele, Dimensionen nach Rosenbaum nennen

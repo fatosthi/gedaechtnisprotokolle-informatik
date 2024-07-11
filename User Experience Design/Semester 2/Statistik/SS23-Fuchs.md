@@ -1,0 +1,26 @@
+Dozentin: Dr. Hildegard Fuchs
+
+- Alphafehler-Kumulierung
+- Stichprobenumfangsplanung
+  - Stichprobengröße berechnen
+  - Erklären wieso die Stichprobengröße einen Einfluss auf die Teststärke hat
+- Welches Skalenniveau haben folgende Merkmale? *(1 Punkt Abzug pro falscher Angabe)*
+- Merkmalszusammenhänge: *(Beispiel für Zusammenhang gegeben)*
+  - Vier wichtigsten möglichen Ursachen (in der Vorlesung nummeriert mit 1a / 1b, 2 und 3), die einem Merkmalszusammenhang zugrunde liegen können angeben (d. h. formuliert mit „Merkmal A“ und „Merkmal B“)
+  - Für die Möglichkeiten 1a / 1b und 2 jeweils einen Mechanismus ausdenken, wie der Zusammenhang zustande kommen könnte - auf die gegebene Stichprobe bezogen (der Mechanismus muss nicht realistisch sein)
+- Plätze einer Fußballmannschaft über die Jahre gegeben
+  - Modalwert/Modi angeben
+  - Median berechnen
+  - Erklären warum Mittelwert nicht sinnvoll
+- 20 Sportler befragt: Alter und Laufzeit eines Marathons (oder anderer Lauf) -> Werte und Kovarianz gegeben
+  - Korrelation berechnen
+  - Ergebnis interpretieren
+- t-Test durchführen 
+  - Bestimmen und Begründen ob abhängig/unabhängig
+- Varianzanalyse
+  - H0 und H1 für das gegebene Problem formulieren, beschreiben was aus H0 und H1 interpretiert werden kann und angeben, ob/was noch weiter getestet werden muss 
+- Relationskoeffizient
+- Anhand beschriebener Studie entscheiden welcher parametrische/nonparametrische Test durchgeführt werden muss (ob (un)abhängiger T-Test, ANOVA oder Mann-Whithney U-Test, Wolcoxon-Test, Kruskal-Willis H-Test) + falls es weitere Voraussetzungen gibt, diese auch noch angeben (vgl. Voraussetzungen parametrische Tests)
+- Flächentreue Darstellung bestimmen (gegebenes Histogramm für eine **relative** Verteilung und y-Achsen Beschriftung ergänzen)
+- Bonferroni-Holm Korrektur
+  - exemplarisch für den kleinsten p Wert anwenden

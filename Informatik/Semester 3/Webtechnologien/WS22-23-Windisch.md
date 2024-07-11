@@ -1,0 +1,21 @@
+Frage: Wie wird "www.thi.de" in die IP-Adresse:"12345" umgesetzt?
+
+Fragen zur URI/URL - Was ist #123 am Ende etc.
+
+Eine Klasse war gegeben und du musstest die in JSON schreiben
+
+Es gab eine REST Aufruftabelle und du musst eintragen welcher (GET,DELETE,PUT,POST) und auch einen Pfad angeben (Es war eine Klasse vorgegeben aus der man die Aufrufe rauslesen kann)
+
+Fragen zu einem HTML Beispiel: Wie man bestimmte Elemente mit Javascript bekommt (document.body.getElementBy.., document.body.children\[0\],...). Nicht alle Elemente hatten direkt eine Id, also man kann nicht die ganze Zeit nur document.body.getElementById nehmen, sondern muss sich manachmal so durchhangeln(document.body.children\[0\].nextneighbour...). Bei einer dieser Aufgaben war explizit verlangt,dass man einen query selector zum suchen benutzt (mit javascript document.querySelector("Css-Ausdruck").
+
+Dann gabs ein paar Aufgaben genau anders herum: Javascript war gegeben und du musst sagen welches Element damit ausgewählt wird
+
+Dann gab es einen Lückentext mit Html und einen dazugehörigen Lückentext mit CSS (Es war eine Art e-mail log in mit Email label und input und passwort label und input und einer checkbox mit label(genannt:"remember password") und ein zurücksetzen button und ein input type submit (zum absenden)
+
+Da war besonders, dass das als responsive gemacht wurde (siehe Script) - alles war in divs gepackt, die je nachdem welche größe sie einnehmen bestimmte Klassen (col-3, col -7,row,...) haben oder (im HTML Lückentext) noch bekommen sollen. Also jede row so aufteilen, dass die cols da drin insgesamt 12 ergeben also z.B. (2 divs - ein div col-3 - das andere col-9). Bei dem css musste man ein Media Query machen (ab einer bestimmten Bildschirmgröße sollen sich bestimmte Werte (die angegeben waren) verändern)
+
+Dann gab es eine Aufgabe zur PHP Formularvalidierung:gegeben war HTML (IT-Support Formular mit Bestellnummer Input und Anliegen Input und absenden Button) -NUR wenn das Formular abgesendet wurde, muss man alle Inputs checken-> wenn diese falsch sind(sie sollen falsch sein, wenn ein Input leer ist), dann sollen alle Sachen in Inputs stehen bleiben(value muss mit php echo gesetzt werden). Wenn die Bestellnummer leer ist, soll eine Fehlermeldung unter dem BestellnummerInput erfolgen (Lücke war in HTML gegeben -> du musst wieder mit php echo arbeiten) - bei leerem AnliegenInput soll unter dem zugehörigen Feld ebenfalls eine Fehlermeldung ausgegeben werden. Ebenso soll man im Fehlerfall den Inputs neue Klassen zuweisen(die Klassen waren schon gegeben: sie sorgen dafür, dass die INputs rot umrandet werden)-> auch die Klassen mit echo im FehlerFall ins html schreiben?! - Falls alle Felder richtig ausgefüllt wurden, so sollen die Inputs(strings) zusammengefügt werden und einer gegebenen Funktion als Parameter übergeben werden. (die soll das abschicken der Daten machen -ist egal was die macht-die muss man nicht implementieren)
+
+Bei der Angular Augabe musstest du zur Webshop Aufgabe im Skript eine neue Komponente machen (wieder Html und typescript und css(sehr kurz -nur zwei zeilen) lückentext vorgegeben). Man hatte auch benötigte Typescript Klassen mit benötigten Funktionen zu 90% gegeben. Für Typescript: Es war eine service Funktion gegeben mit der man sich alle Elemente (z.B. Warenkörbe) vom Server holt. Der Warenkorb, war z.B. als Klasse gegeben, so dass man die Funktionen des Warenkorbs kannte. Über alle Warenkörbe wurde in HTML mit ngFor iteriert und dann bestimmte Werte des jeweiligen Warenkorbs in Tabellenform(Tabelle war schon vorgegeben) ausgegeben(du musst noch die Werte hinschreiben die ausgebene werden : {{warenkorb.preis()}} oder so).Mit ngIf muss die gesamte Struktur verdeckt werden,falls es keine Warenkörbe gibt und ebenfalls mit ngIf muss in dem Fall eine Nachricht angezeigt werden: "Nix vorhanden". In der Warenkorbklasse musste man noch eine Funktion, die man auch benutzen will, selbst implementieren: die Funktion soll alle Namen der Produkte eines Warenkorbs mit Komma getrennt in einen String schreiben und ausgeben.
+
+Zeitlich war die Prüfung knapp

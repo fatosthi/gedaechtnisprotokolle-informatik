@@ -1,0 +1,27 @@
+###### (mit hoher Wahrscheinlichkeit die selbe Prüfung wie <https://cloud.studverthi.de/apps/collectives/p/Wyz6fsCJfo2Wy9L/Ged%C3%A4chtnisprotokolle/User%20Experience%20Design/Semester%204/Projektmanagement/SS22%20Buckel?fileId=98408> )
+
+- 2 Merkmale eines Projekts nennen und beschreiben
+- 1 Unterschied zw, Routine und Projekt
+- Datum von Projektende soll vorgezogen werden - Welche 2 Möglichkeiten gibt es nach Projektdreieck?
+- Wie auf Anfrage Verschieben der Deadline reagieren?
+-  Unternehmen passt Vorgehensmodell individuell an sich an - 1 Vorteil und 1 Nachteil
+- Phasenplan zeichnen
+- geg. PSP: in objektorientiert skizzieren/ abändern
+- Mitarbeiter kommt zu dir, will zu agilem Vorgehen wechseln, da weniger Meetings und flexibler in Vorgehen - hat MA recht?
+- Welches Vorgehensmodell ist gesucht? : geg. leicht verständlich, gründliche Dokumentation - Wasserfallmodell
+- Projektorganisation: Abb. geg. - Welche Stammorganisation ist abgebildet?
+  - Verschiedene Szenarien dazu - zb Entscheidungen müssen schnell getätigt werden und an viele Mitarbeiter geleitet werden - ist die Organisation gut/passend in diesem fall?
+- Tabelle: Risiken und deren Schadenshöhe und Eintrittwahrscheinlichkeit: Risikowert berechnen und erklären warum das sinnvoll ist
+  - Kann man einen Wert aus Tabelle außen vorlassen? Wenn ja warum
+  - 1 Korrektivmaßnahme und 1 Präventivmaßnahme dazu
+- Interessenmatrix geg. - Welche Strategie für welche Stakeholder?
+  - konkrete Beispiele jeweils 1, wie man mit diesen Stakeholdern umgeht/ einbezieht
+- Netzplan geg. - Welche zeitliche Infos gibt dieser preis, welche werden nicht preisgegeben? jeweils 1
+  - bei Nr.x und Nr.y, dauert die Umsetzung nun 3 Tage länger als im angegebenen Netzplan. - Was ändert sich? (Puffer - frühster Anfang/ende - spätester Anfang/ende)
+- Leistungsabgleich - Szenario - man soll sich für ein Verfahren entscheiden und seine Wahl begründen (50/50-Verfahren etz) und FGR angeben
+  - Wann würde man hier ein subjektives Verfahren nehmen? wie ist dann der FGR
+- Unterschied zw. Sprint Review und Sprint Retrospektive
+- Sprint Retrospektive erklären
+- Tabelle mit Scrum Ablauf: jeweilige Rolle von PO und MA erklären auf User Story bezogen (bei Sprintplanung, Sprint, Sprint Review, Sprint Retrospektive)
+- Tabelle mit versch. Szenarien - agil, traditionell oder weder noch und warum?
+- Welche Angaben fehlen zur Vollständigkeit eines Arbeitspakets

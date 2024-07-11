@@ -1,0 +1,23 @@
+Dozent: Stiehl
+
+- Generell: Das Projekt ist für ein Wahlpflicht Modul sehr viel Aufwand. Ich würde es nicht nochmal wählen(außer es wird eine 1,x. Dann wäre der Aufwand vertretbar aber immernoch hoch)
+- Ablauf der Vorlesung: Man bekommt Videos und Übungsaufgaben und bespricht die in einer Stunde. Man bildet 3er Gruppen für das Projekt. Projekt musste vor Klausurenphase abgegeben werden. Natürlich musste nach dem ganzen Aufwand noch eine Mündliche Prüdung stattfinden...
+- Ablauf der Prüfung: Dreier Gruppen bekommen Fragen gestellt und müssen diese beantworten 
+  - Nach der ersten Fragerunde wird das Projekt gestartet und wurde bei keiner Gruppe beendet
+- Was gefragt wurde. Alles im Verhältnis zu der Web-Tech Abnahme wenn ich etwas bewerte: 
+  - Der Stoff ist deutlich weniger allerdings setzt er das Wissen aus Geschäftsprozessmanagement voraus
+  - Bohrt genauso tief bei bestimmten Themen
+  - Aus Geschäftsprozessmanagement z.B. 
+    - Viele Gruppen wurden nach dem Entwicklungsprozess nach Bruce Silver gefragt
+    - 4 W Fragen
+  - Aus der Vorlesung: 
+    - Zunächst wurde im Uhrzeigersinn die Pflicht Anforderungen abgefragt. Man musste dann das passende BPMN Modell aufrufen.
+    - Alle weiteren Fragen haben sich indirekt immer auf das Projekt bezogen 
+      - DMN: Hit Policies erklären können (alle möglichen in Camunda)
+      - Wie Single und Multi Hit Policies funktionieren
+    - Auch ein paar sehr basic fragen wie was ist eine Call Activity und wie sieht die aus, wie heit die DMN Aufgabe... 
+      - Bei Call Activity wurde auch call By Reference und Call by Value thematisiert
+    - Ad-Hoc erklären mit Variablen und seiner Empfehlung zum Modellieren der Execution-listener
+    - Transaktionsprozess erklären woran erkennbar 
+      - Erklären warum kein Eriegnis Teilprozess in Transaktion funktioniert
+    - Diverse Fragen wie etwas in unserem Prozess umgesetzt wurde
